@@ -1,10 +1,8 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GhULsT2_mXfCnlGQZN-CES2h-0HW2hvM0IoBa3AhTNOfPm-3zOzbQuqyvaDJlkEL24Y&usqp=CAU)]
+
 
 <h1 align="center">Hi 👋, I'm Pavan Sai</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611bfeafb5def138e62ddc0429595da4fd355d21b6b&rid=giphy.gif&ct=g">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavansai247&label=Profile%20views&color=0e75b6&style=flat" alt="pavansai247" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavansai247" alt="pavansai247" /></a> </p>
